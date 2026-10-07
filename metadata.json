@@ -1,0 +1,6 @@
+{
+  "name": "Kashmir Escape",
+  "description": "Premium luxury travel agency specializing in elite tour experiences and adventures in Kashmir, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
